@@ -7,7 +7,7 @@
         <mxCell id="fROJW_uFa1HICrX3GJMf-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;rounded=1;fillColor=#3399FF;strokeColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="839" y="-600" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fROJW_uFa1HICrX3GJMf-2" value="Account" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;fillColor=#004C99;fontColor=#FFFFFF;" parent="fROJW_uFa1HICrX3GJMf-1" vertex="1">
+        <mxCell id="fROJW_uFa1HICrX3GJMf-2" value="Account - Digital ID" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;fillColor=#004C99;fontColor=#FFFFFF;" parent="fROJW_uFa1HICrX3GJMf-1" vertex="1">
           <mxGeometry width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fROJW_uFa1HICrX3GJMf-3" value="Onboarding System" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.outside_sources;whiteSpace=wrap;align=center;rounded=1;fillColor=#0066CC;fontFamily=Verdana;fontSize=12;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
